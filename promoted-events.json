@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "id": "promoted-fw-401993",
+    "title": "Gwenifer Raymond",
+    "category": "gig",
+    "venueName": "Mono",
+    "address": "12 Kings Court, Glasgow G1 5RB",
+    "city": "Glasgow",
+    "distanceMiles": 1.2,
+    "startTime": "2026-12-06T20:00:00.000Z",
+    "doorsTime": "19:00",
+    "bookingUrl": "https://www.seetickets.com/event/gwenifer-raymond/mono-kings-court/3730441?src=event-page-share",
+    "priceDisplay": "£16",
+    "posterUrl": "https://lh3.googleusercontent.com/d/10ko_0zBBMXgkVYYq0qnroGB2JoUAh0l9=w800",
+    "tags": [
+      "JAZZ & FOLK"
+    ],
+    "ticketStatus": "AVAILABLE",
+    "coordinates": {
+      "lat": 55.8642,
+      "lng": -4.2518
+    }
+  },
+  {
+    "id": "promoted-fw-637055",
+    "title": "The McCommitments - Scottish Saviours of Soul",
+    "category": "gig",
+    "venueName": "Macarts",
+    "address": "Bridge St, Galashiels TD1 1SP",
+    "city": "Galashiels",
+    "distanceMiles": 1.2,
+    "startTime": "2027-01-23T20:00:00.000Z",
+    "doorsTime": "19:30",
+    "bookingUrl": "https://www.ticketsource.com/macarts/the-mccommitments/e-vgoyqv",
+    "priceDisplay": "£15",
+    "posterUrl": "https://static.wixstatic.com/media/c01731_f078dfe8687d4d3ea4307da0fe38e8d1~mv2.png/v1/fill/w_800,h_800,al_c/c01731_f078dfe8687d4d3ea4307da0fe38e8d1~mv2.png",
+    "tags": [],
+    "description": "14+",
+    "ticketStatus": "AVAILABLE",
+    "coordinates": {
+      "lat": 55.6147,
+      "lng": -2.8069
+    }
+  }
+]
